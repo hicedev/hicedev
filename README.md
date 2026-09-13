@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hicedev-logo.jpg" alt="HiceDev logo" width="132" />
+<img src="./assets/hicedev-promo-banner-v2.png" alt="HiceDev logo" width="322" />
 
 # HiceDev
 
