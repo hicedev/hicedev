@@ -6,7 +6,7 @@
 
 ### Digital products, designed and built with care.
 
-<a href="https://hicedev.com">
+<a href="https://hicedev.com" target="_blank">
   <img src="https://img.shields.io/badge/ORDER%20A%20PROJECT-8B5CF6?style=for-the-badge&labelColor=17152d" alt="Order a project" />
 </a>
 
